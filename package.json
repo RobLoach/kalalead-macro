@@ -1,0 +1,14 @@
+{
+  "name": "kalalead-connectdatacom",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.11.0"
+  }
+}
